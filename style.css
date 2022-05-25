@@ -1,0 +1,39 @@
+body {
+    background-color: chocolate
+    
+}
+
+h1{
+    font-family: sans-serif
+    font-style:default
+    font-weight:12
+}
+
+h4{
+font-family: serif
+    font-style: default
+    font-weight: 12
+}
+
+#camera {
+    width: 120px;
+    border-radius: 140px;
+    padding: 120px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2)
+}
+
+img {
+    width: 50%
+    height: 60%
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%
+    text-align
+}
+
+img:hover{
+    border-radius: 140px;
+}
